@@ -91,12 +91,12 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AramMJAE&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41&custom_title=%F0%9F%97%A1%EF%B8%8F%20Kill%20Count" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AramMJAE&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&langs_count=8&custom_title=%F0%9F%8E%AF%20Weapon%20Proficiency" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=AramMJAE&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&custom_title=Kill+Count" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AramMJAE&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&langs_count=8&custom_title=Weapon+Proficiency" height="170" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AramMJAE&hide_border=true&background=0D1117&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF4180&currStreakNum=00FF41&sideNums=00FF41" />
+<img src="https://streak-stats.demolab.com/?user=AramMJAE&hide_border=true&background=0D1117&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF4180&currStreakNum=00FF41&sideNums=00FF41" />
 
 </div>
 
