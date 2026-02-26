@@ -10,41 +10,32 @@
 
 <div align="center">
 
-### `📜 CHARACTER STATUS 📜`
+### `💻 SYSTEM BOOT 💻`
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ⚔️  C H A R A C T E R    S T A T U S                      ║
-║   ═══════════════════════════════════════                     ║
-║                                                               ║
-║   NAME ········· MJ                                          ║
-║   CLASS ········ Developer / Data Engineer                    ║
-║   REGION ······· South Korea 🇰🇷                              ║
-║   GUILD ········ GitHub (Since 2015)                         ║
-║                                                               ║
-║   ┌───────────────────────────────────────────┐              ║
-║   │                                           │              ║
-║   │  STR  ██████████████████░░░░  85  ⚔️      │              ║
-║   │  VIT  █████████████████░░░░░  80  ❤️      │              ║
-║   │  DEX  ██████████████░░░░░░░░  65  🏹      │              ║
-║   │  INT  ████████████████████░░  90  🔮      │              ║
-║   │  WIS  █████████████████░░░░░  78  📖      │              ║
-║   │  LCK  ██████████████░░░░░░░░  60  🍀      │              ║
-║   │                                           │              ║
-║   └───────────────────────────────────────────┘              ║
-║                                                               ║
-║   TITLE : 「 The Relentless Coder 」                         ║
-║                                                               ║
-║   ACTIVE SKILLS :                                            ║
-║     ⚡ Backend Strike     🔮 Data Crunch                     ║
-║     📱 Mobile Bash        🧪 ML Beam                        ║
-║                                                               ║
-║   PASSIVE SKILLS :                                           ║
-║     🛡️ Debug Shield       💡 Quick Learner                   ║
-║     ☕ Caffeine Boost     🔄 Git Reflex                      ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+$ sudo ./load_developer.sh
+
+[    0.000000] BIOS-MJ: Initializing system...
+[    0.031337] CPU: Developer/DataEngineer @ South Korea
+[    0.042195] Memory: GitHub registered since 2015
+[    0.058712] Loading kernel modules...
+[  OK  ] Loaded module: backend-dev
+[  OK  ] Loaded module: data-engineering
+[  OK  ] Loaded module: mobile-dev
+[  OK  ] Loaded module: machine-learning
+[    0.123456] All modules loaded successfully.
+[    0.200000] Mounting repositories... 26 repos found.
+[    0.314159] Network: Connected to github.com/AramMJAE
+[    0.420000] System ready.
+
+   ____  _______    ____  __  __
+  |  _ \| ____\ \  / /  \/  |  _ \
+  | | | |  _|  \ \/ /| |\/| | |_) |
+  | |_| | |___  \  / | |  | |  __/
+  |____/|_____|  \/  |_|  |_|_|
+
+  MJ@github:~$ echo "Ready to code."
+  Ready to code.
 ```
 
 </div>
@@ -53,33 +44,19 @@
 
 <div align="center">
 
-### `🎒 INVENTORY 🎒`
+### `⚡ TECH STACK ⚡`
 
-```
-┌──────────┬──────────┬──────────┬──────────┬──────────┬──────────┐
-│          │          │          │          │          │          │
-│  ☕ Java │  🐍 Py   │  💜 Kt   │  💛 JS   │  💙 TS   │  🐬 SQL  │
-│  Lv.MAX  │  Lv.MAX  │  Lv.7    │  Lv.6    │  Lv.6    │  Lv.MAX  │
-│          │          │          │          │          │          │
-├──────────┼──────────┼──────────┼──────────┼──────────┼──────────┤
-│          │          │          │          │          │          │
-│  🧠 TF   │  📓 Jpy  │  🚀 Stl  │  📱 And  │  🔀 Git  │  🌐 HTML │
-│  Lv.5    │  Lv.6    │  Lv.5    │  Lv.7    │  Lv.8    │  Lv.6    │
-│          │          │          │          │          │          │
-└──────────┴──────────┴──────────┴──────────┴──────────┴──────────┘
-```
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
