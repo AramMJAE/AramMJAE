@@ -129,56 +129,6 @@
 
 <div align="center">
 
-### `🗺️ 3D WORLD MAP 🗺️`
-
-<br>
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-### `⏱️ WEEKLY DEV TIME ⏱️`
-
-<!--START_SECTION:waka-->
-```text
-Setting up WakaTime...  ⏳
-```
-<!--END_SECTION:waka-->
-
-<!--
-  ⏱️ WakaTime 연동 방법:
-  1. https://wakatime.com 가입
-  2. IDE에 WakaTime 플러그인 설치 (VSCode, IntelliJ 등)
-  3. https://wakatime.com/settings/api-key 에서 API Key 복사
-  4. GitHub 레포 Settings → Secrets → WAKATIME_API_KEY 추가
-  5. Actions 탭에서 "WakaTime Stats" 워크플로우 실행
-  6. 자동으로 이 섹션이 이번 주 코딩 시간으로 업데이트됨!
--->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AramMJAE&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&layout=compact&custom_title=%F0%9F%92%BB%20This%20Week%20Coding%20Stats" />
-
-</div>
-
----
-
-<div align="center">
-
-### `🏆 ACHIEVEMENTS UNLOCKED 🏆`
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AramMJAE&theme=darkhub&no-frame=true&column=7&margin-w=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
