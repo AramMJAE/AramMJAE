@@ -1,18 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003B00,50:00FF41,100:003B00&height=200&section=header&text=M%20J&fontColor=00FF41&fontSize=80&fontAlignY=40&desc=WAKE%20UP,%20NEO...&descColor=00FF41&descSize=16&descAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=burning&color=0:ff6600,25:ff4500,50:ff0000,75:cc0000,100:990000&height=220&section=header&text=⚔️%20MJ%20⚔️&fontColor=FFD700&fontSize=70&fontAlignY=35&desc=LEVEL%2010%20%E2%94%82%20DEVELOPER%20%E2%94%82%20DATA%20ENGINEER&descColor=FFA500&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-```
- ██████╗██████╗ ███████╗  ████████╗██╗  ██╗███████╗
- ██╔═══╝██╔══██╗██╔════╝  ╚══██╔══╝██║  ██║██╔════╝
- ██║    ██████╔╝█████╗        ██║   ███████║█████╗
- ██║    ██╔══██╗██╔══╝        ██║   ██╔══██║██╔══╝
- ╚██████╗██║  ██║███████╗     ██║   ██║  ██║███████╗
-  ╚═════╝╚═╝  ╚═╝╚══════╝     ╚═╝   ╚═╝  ╚═╝╚══════╝
-    M  A  T  R  I  X     D  E  V  E  L  O  P  E  R
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%3E+Wake+up%2C+Neo...;%3E+The+Matrix+has+you...;%3E+Follow+the+white+rabbit.;%3E+Knock+knock.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=650&height=40&lines=%E2%9A%94+A+new+challenger+has+appeared!;%F0%9F%94%A5+Critical+hit!+It's+super+effective!;%F0%9F%8F%B0+Entering+the+dungeon...;%F0%9F%92%80+You+died.+...Just+kidding.)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,34 +10,41 @@
 
 <div align="center">
 
-### `🎴 TRAINER CARD 🎴`
+### `📜 CHARACTER STATUS 📜`
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  ★ POKEMON TRAINER CARD                    ⭐ RARE ★   ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║   🧑‍💻  MJ                           Lv. 10             ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━              ║
-║                                                          ║
-║   TYPE      │  Developer / Data Engineer                 ║
-║   REGION    │  South Korea 🇰🇷                           ║
-║   SINCE     │  2015                                      ║
-║                                                          ║
-║   ┌─────────────────────────────────────┐                ║
-║   │  HP    ████████████████████░░░  85  │                ║
-║   │  ATK   █████████████████░░░░░░  70  │                ║
-║   │  DEF   ██████████████░░░░░░░░░  60  │                ║
-║   │  SPD   ████████████████████░░░  80  │                ║
-║   │  SP.A  █████████████████░░░░░░  70  │                ║
-║   │  SP.D  ██████████████████░░░░░  75  │                ║
-║   └─────────────────────────────────────┘                ║
-║                                                          ║
-║   MOVES:                                                 ║
-║   ⚡ Backend Strike    🔮 Data Crunch                    ║
-║   📱 Mobile Bash       🧪 ML Beam                       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ⚔️  C H A R A C T E R    S T A T U S                      ║
+║   ═══════════════════════════════════════                     ║
+║                                                               ║
+║   NAME ········· MJ                                          ║
+║   CLASS ········ Developer / Data Engineer                    ║
+║   REGION ······· South Korea 🇰🇷                              ║
+║   GUILD ········ GitHub (Since 2015)                         ║
+║                                                               ║
+║   ┌───────────────────────────────────────────┐              ║
+║   │                                           │              ║
+║   │  STR  ██████████████████░░░░  85  ⚔️      │              ║
+║   │  VIT  █████████████████░░░░░  80  ❤️      │              ║
+║   │  DEX  ██████████████░░░░░░░░  65  🏹      │              ║
+║   │  INT  ████████████████████░░  90  🔮      │              ║
+║   │  WIS  █████████████████░░░░░  78  📖      │              ║
+║   │  LCK  ██████████████░░░░░░░░  60  🍀      │              ║
+║   │                                           │              ║
+║   └───────────────────────────────────────────┘              ║
+║                                                               ║
+║   TITLE : 「 The Relentless Coder 」                         ║
+║                                                               ║
+║   ACTIVE SKILLS :                                            ║
+║     ⚡ Backend Strike     🔮 Data Crunch                     ║
+║     📱 Mobile Bash        🧪 ML Beam                        ║
+║                                                               ║
+║   PASSIVE SKILLS :                                           ║
+║     🛡️ Debug Shield       💡 Quick Learner                   ║
+║     ☕ Caffeine Boost     🔄 Git Reflex                      ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -56,27 +53,21 @@
 
 <div align="center">
 
-### `⚡ SKILL TREE ⚡`
+### `🎒 INVENTORY 🎒`
 
 ```
-                    ┌─────────────┐
-                    │  LANGUAGES  │
-                    └──────┬──────┘
-           ┌───────────────┼───────────────┐
-           ▼               ▼               ▼
-     ┌───────────┐  ┌───────────┐  ┌───────────┐
-     │   Java    │  │  Python   │  │  Kotlin   │
-     │  ★★★★☆   │  │  ★★★★☆   │  │  ★★★☆☆   │
-     └───────────┘  └───────────┘  └───────────┘
-           ┌───────────────┼───────────────┐
-           ▼               ▼               ▼
-     ┌───────────┐  ┌───────────┐  ┌───────────┐
-     │JavaScript │  │TypeScript │  │    SQL    │
-     │  ★★★☆☆   │  │  ★★★☆☆   │  │  ★★★★☆   │
-     └───────────┘  └───────────┘  └───────────┘
+┌──────────┬──────────┬──────────┬──────────┬──────────┬──────────┐
+│          │          │          │          │          │          │
+│  ☕ Java │  🐍 Py   │  💜 Kt   │  💛 JS   │  💙 TS   │  🐬 SQL  │
+│  Lv.MAX  │  Lv.MAX  │  Lv.7    │  Lv.6    │  Lv.6    │  Lv.MAX  │
+│          │          │          │          │          │          │
+├──────────┼──────────┼──────────┼──────────┼──────────┼──────────┤
+│          │          │          │          │          │          │
+│  🧠 TF   │  📓 Jpy  │  🚀 Stl  │  📱 And  │  🔀 Git  │  🌐 HTML │
+│  Lv.5    │  Lv.6    │  Lv.5    │  Lv.7    │  Lv.8    │  Lv.6    │
+│          │          │          │          │          │          │
+└──────────┴──────────┴──────────┴──────────┴──────────┴──────────┘
 ```
-
-#### `>> EQUIPPED ITEMS <<`
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -96,16 +87,16 @@
 
 <div align="center">
 
-### `🏰 BATTLE STATS 🏰`
+### `⚔️ DUNGEON RECORD ⚔️`
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AramMJAE&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=eaeaea&ring_color=e94560&custom_title=%E2%9A%94%EF%B8%8F%20BATTLE%20RECORD%20%E2%9A%94%EF%B8%8F" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AramMJAE&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=eaeaea&langs_count=8&custom_title=%F0%9F%97%A1%EF%B8%8F%20WEAPON%20MASTERY%20%F0%9F%97%A1%EF%B8%8F" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=AramMJAE&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41&custom_title=%F0%9F%97%A1%EF%B8%8F%20Kill%20Count" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AramMJAE&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&langs_count=8&custom_title=%F0%9F%8E%AF%20Weapon%20Proficiency" height="170" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AramMJAE&hide_border=true&background=1A1A2E&ring=E94560&fire=E94560&currStreakLabel=E94560&sideLabels=EAEAEA&dates=EAEAEA80&currStreakNum=EAEAEA&sideNums=EAEAEA" />
+<img src="https://streak-stats.demolab.com?user=AramMJAE&hide_border=true&background=0D1117&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF4180&currStreakNum=00FF41&sideNums=00FF41" />
 
 </div>
 
@@ -132,21 +123,21 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║   ★ MJ used GITHUB PROFILE!                         ║
+║              ☠️  Y O U   D I E D  ☠️                ║
 ║                                                      ║
-║   It's super effective!                              ║
+║        ...just kidding. MJ is still standing.        ║
 ║                                                      ║
-║   Visitor fainted!                                   ║
-║   MJ gained 50 EXP. Points!                         ║
+║        SOULS RETRIEVED: ∞                            ║
+║        BONFIRES LIT: 26 repos                        ║
 ║                                                      ║
-║             ► CONTINUE                               ║
-║               NEW GAME                               ║
+║              ► RESPAWN                               ║
+║                QUIT GAME                             ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-![Visitors](https://komarev.com/ghpvc/?username=AramMJAE&style=flat-square&color=00FF41&labelColor=0d1117&label=PLAYERS%20VISITED)
+![Visitors](https://komarev.com/ghpvc/?username=AramMJAE&style=flat-square&color=FF6600&labelColor=0d1117&label=SOULS%20COLLECTED)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003B00,50:00FF41,100:003B00&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=burning&color=0:ff6600,25:ff4500,50:ff0000,75:cc0000,100:990000&height=120&section=footer" width="100%" />
