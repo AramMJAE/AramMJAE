@@ -1,18 +1,18 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003B00,50:00FF41,100:003B00&height=200&section=header&text=M%20J&fontColor=00FF41&fontSize=80&fontAlignY=40&desc=WAKE%20UP,%20NEO...&descColor=00FF41&descSize=16&descAlignY=65&animation=fadeIn" width="100%" />
+
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    ░█▀█░█▀█░█░█░█▀▀░█▄█░█▀█░█▀█░░░▀█▀░█▀▄░█▀█░▀█▀░█▀█░█▀▀░█▀▄       ║
-║    ░█▀▀░█░█░█▀▄░█▀▀░█░█░█░█░█░█░░░░█░░█▀▄░█▀█░░█░░█░█░█▀▀░█▀▄       ║
-║    ░▀░░░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░░░░▀░░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀       ║
-║                                                                          ║
-║                     ⚡  M J  ⚡                                          ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+ ██████╗██████╗ ███████╗  ████████╗██╗  ██╗███████╗
+ ██╔═══╝██╔══██╗██╔════╝  ╚══██╔══╝██║  ██║██╔════╝
+ ██║    ██████╔╝█████╗        ██║   ███████║█████╗
+ ██║    ██╔══██╗██╔══╝        ██║   ██╔══██║██╔══╝
+ ╚██████╗██║  ██║███████╗     ██║   ██║  ██║███████╗
+  ╚═════╝╚═╝  ╚═╝╚══════╝     ╚═╝   ╚═╝  ╚═╝╚══════╝
+    M  A  T  R  I  X     D  E  V  E  L  O  P  E  R
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Gotta+catch+all+the+commits!;A+wild+developer+appeared!;It's+super+effective!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%3E+Wake+up%2C+Neo...;%3E+The+Matrix+has+you...;%3E+Follow+the+white+rabbit.;%3E+Knock+knock.)](https://git.io/typing-svg)
 
 </div>
 
@@ -141,21 +141,25 @@
 
 <div align="center">
 
-### `🎵 NOW PLAYING 🎵`
+### `⏱️ WEEKLY DEV TIME ⏱️`
+
+<!--START_SECTION:waka-->
+```text
+Setting up WakaTime...  ⏳
+```
+<!--END_SECTION:waka-->
 
 <!--
-  🎧 Spotify 연동 방법:
-  1. https://spotify-github-profile.kittinan.vercel.app 접속
-  2. Spotify 로그인
-  3. 생성된 이미지 URL을 아래에 붙여넣기
+  ⏱️ WakaTime 연동 방법:
+  1. https://wakatime.com 가입
+  2. IDE에 WakaTime 플러그인 설치 (VSCode, IntelliJ 등)
+  3. https://wakatime.com/settings/api-key 에서 API Key 복사
+  4. GitHub 레포 Settings → Secrets → WAKATIME_API_KEY 추가
+  5. Actions 탭에서 "WakaTime Stats" 워크플로우 실행
+  6. 자동으로 이 섹션이 이번 주 코딩 시간으로 업데이트됨!
 -->
 
-[![Spotify](https://img.shields.io/badge/Connect_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-github-profile.kittinan.vercel.app)
-
-```
-🎧 Spotify를 연결하면 지금 듣고 있는 노래가 여기에 표시됩니다!
-   위 버튼을 클릭해서 Spotify를 연동해보세요.
-```
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AramMJAE&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&layout=compact&custom_title=%F0%9F%92%BB%20This%20Week%20Coding%20Stats" />
 
 </div>
 
@@ -191,6 +195,8 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-![Visitors](https://komarev.com/ghpvc/?username=AramMJAE&style=flat-square&color=e94560&labelColor=1a1a2e&label=TRAINERS%20VISITED)
+![Visitors](https://komarev.com/ghpvc/?username=AramMJAE&style=flat-square&color=00FF41&labelColor=0d1117&label=PLAYERS%20VISITED)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003B00,50:00FF41,100:003B00&height=120&section=footer" width="100%" />
